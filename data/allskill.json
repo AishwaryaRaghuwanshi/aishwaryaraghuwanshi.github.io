@@ -1,46 +1,90 @@
 [
     {
-        "skill": "C/C++",
-        "percent": 60
+        "skill": "Microsoft Office",
+        "percent": 80
     },
     {
-        "skill": "Java Core",
+        "skill": "Adobe Photoshop",
         "percent": 75
     },
     {
-        "skill": "HTML",
-        "percent": 50
+        "skill": "CorelDraw",
+        "percent": 80
     },
     {
-        "skill": "CSS",
-        "percent": 50
+        "skill": "InDesign",
+        "percent": 85
     },
     {
-        "skill": "Javascript",
-        "percent": 50
+        "skill": "Project Management",
+        "percent": 75
     },
     {
-        "skill": "PHP",
-        "percent": 60
+        "skill": "Fashion Illustrations",
+        "percent": 95
     },
     {
-        "skill": "SQL",
-        "percent": 60
+        "skill": "Social Media Management and Marketing Strategy",
+        "percent": 80
     },
     {
-        "skill": "Realm",
+        "skill": "Content Management",
         "percent": 70
     },
     {
-        "skill": "Auto CAD",
-        "percent": 40
+        "skill": "Proof Reading",
+        "percent": 80
     },
     {
-        "skill": "Android",
+        "skill": "Creative Writing",
         "percent": 75
     },
     {
-        "skill": "Kotlin",
-        "percent": 40
+        "skill": "Marketing Strategy",
+        "percent": 85
+    },
+    {
+        "skill": "Trend Analysis",
+        "percent": 80
+    },
+    {
+        "skill": "Art Direction",
+        "percent": 90
+    },
+    {
+        "skill": "Public Speaking",
+        "percent": 95
+    },
+    {
+        "skill": "Fashion Styling",
+        "percent": 92
+    },
+    {
+        "skill": "Fashion Writing",
+        "percent": 83
+    },
+    {
+        "skill": "Creative Visualization",
+        "percent": 79
+    },
+    {
+        "skill": "Fashion Photography",
+        "percent": 89
+    },
+    {
+        "skill": "Leadership",
+        "percent": 95
+    },
+    {
+        "skill": "Avid Reader",
+        "percent": 85
+    },
+    {
+        "skill": "Fluent Speaker",
+        "percent": 83
+    },
+    {
+        "skill": "Optimistic",
+        "percent": 75
     }
 ]
