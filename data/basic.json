@@ -1,18 +1,14 @@
 {
-    "avatar": "satdev.jpg",
-    "name": "Er. Satdev Kumar (Sokhal)",
-    "work": "Software Engineer",
-    "address": "VPO Sayad Wala Teshil Abohar India",
-    "email": "satdevsokhal1995@gmail.com",
-    "birthday": " 22th January, 1995",
+    "avatar": "aishwarya.jpg",
+    "name": "AISHWARYA RAGHUWANSHI",
+    "work": "Content Creator | Strategist | Creative Catalyst",
+    "address": "Gurgaon, Haryana",
+    "email": "raghuwanshiaishwarya03@gmail.com",
+    "birthday": " ",
     "mobiles": [
         {
             "country": "in",
-            "number": "+91-7508608223"
-        },
-        {
-            "country": "in",
-            "number": "+91-9877580206"
+            "number": "+91-7997296975"
         }
     ]
 }

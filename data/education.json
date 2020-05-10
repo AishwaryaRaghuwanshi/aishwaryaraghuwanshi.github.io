@@ -1,20 +1,20 @@
 [
     {
-        "level" : "Bachelor of Technology",
-        "trade" : "Computer Science and Engineering",
-        "college" : "Baba Farid College of Engineering and Technology, Bathinda, India",
-        "duration" : "2014 - 2018"
+        "level": "Bachelor of Design in Fashion Communication",
+        "trade": "",
+        "college": "National Institute of Fashion Technology - Hyderabad, Telangana",
+        "duration": "2015 - 2019"
     },
     {
-        "level" : "Intermediate in Science (10+2)",
-        "trade" : "Intermediate in Science",
-        "college" : "DAV College, Abohar, Punjab",
-        "duration" : "2012 - 2014"
+        "level": "Higher Secondary",
+        "trade": "Commerce and Physical Education",
+        "college": "Sagar Public School- Bhopal, Madhya Pradesh",
+        "duration": "2013 - 2015"
     },
     {
-        "level" : "Metric Level (10th)",
-        "trade" : "",
-        "college" : "Divine Light Public Senior Secondary School, Abohar, Punjab",
-        "duration" : "2012"
+        "level": "Secondary",
+        "trade": "",
+        "college": "International Public School - Bhopal, Madhya Pradesh",
+        "duration": "2008-2013"
     }
 ]
